@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 12 Pro",
+        "price": 999,
+        "description": "A flagship phone from Apple",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-pro-family-hero?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1604021661000"
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S22",
+        "price": 799,
+        "description": "A flagship phone from Samsung",
+        "image": "https://www.samsung.com/us/smartphones/galaxy-s22/buy/phones/SM-S901UZKAXAA/"
+    },
+    {
+        "id": 3,
+        "name": "Google Pixel 6 Pro",
+        "price": 899,
+        "description": "A flagship phone from Google",
+        "image": "https://store.google.com/us/product/pixel_6_pro"
+    }
+,
+{
+    "id": 4,
+    "name": "OnePlus 9 Pro",
+    "price": 899,
+    "description": "A flagship phone from OnePlus",
+    "image": "https://www.oneplus.com/9-pro"
+},
+{
+    "id": 5,
+    "name": "Xiaomi Mi 11 Ultra",
+    "price": 1199,
+    "description": "A flagship phone from Xiaomi",
+    "image": "https://www.mi.com/global/mi-11-ultra"
+},
+{
+    "id": 6,
+    "name": "Sony Xperia 1 III",
+    "price": 1299,
+    "description": "A flagship phone from Sony",
+    "image": "https://www.sony.com/electronics/smartphones/xperia-1m3"
+}
+]
